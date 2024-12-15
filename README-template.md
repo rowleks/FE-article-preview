@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/article-preview-card-component-feuuHsZtLp)
 - Live Site URL: [Click here](https://fe-article-component.netlify.app/)
 
 ## My process
